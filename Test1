@@ -1133,6 +1133,12 @@ fortified.dnscheck.internet-measurement.com
 0.0.0.0 fortified.dnscheck.internet-measurement.com
 internet-measurement.com
 0.0.0.0 internet-measurement.com
+103.130.214.188
+103.130.214.188/0
+103.130.214.188/8
+103.130.214.188/16
+103.130.214.188/24
+103.130.214.188/32
 
 
 
