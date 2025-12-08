@@ -392,3 +392,16 @@
 50.116.56.211
 0.0.0.0 nl-ams-1.baremetal.scw.clou
 0.0.0.0 odns.m.dnsmeasure.top
+0.0.0.0 45.153.34.227 (hosted-by.vmheaven.io)
+45.153.34.227 (hosted-by.vmheaven.io)
+0.0.0.0 hosted-by.vmheaven.io
+45.153.34.227
+0.0.0.0 141.22.28.227 (research-scan1.inet.haw-hamburg.de)
+141.22.28.227
+0.0.0.0 research-scan1.inet.haw-hamburg.de
+0.0.0.0 167.94.138.38 (scanner-06.ch1.censys-scanner.com)
+167.94.138.38 
+0.0.0.0 scanner-06.ch1.censys-scanner.com
+0.0.0.0 65.49.1.10 (scan-52a.shadowserver.org)
+65.49.1.10
+0.0.0.0 scan-52a.shadowserver.org
