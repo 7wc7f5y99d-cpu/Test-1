@@ -1118,6 +1118,22 @@ crawler.deepfield.net
 47.251.8.45/32
 qq.com
 0.0.0.0 qq.com
+185.247.137.217 (fortified.monitoring.internet-measurement.com)
+185.247.137.217
+185.247.137.217/0
+185.247.137.217/8
+185.247.137.217/16
+185.247.137.217/24
+185.247.137.217/32
+fortified.monitoring.internet-measurement.com
+0.0.0.0 fortified.monitoring.internet-measurement.com
+dmp6rbblmcdpo.fortified.dnscheck.internet-measurement.com
+0.0.0.0 dmp6rbblmcdpo.fortified.dnscheck.internet-measurement.com
+fortified.dnscheck.internet-measurement.com
+0.0.0.0 fortified.dnscheck.internet-measurement.com
+internet-measurement.com
+0.0.0.0 internet-measurement.com
+
 
 
 
