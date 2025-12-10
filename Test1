@@ -1622,3 +1622,32 @@ netsecscan.net
 44.220.185.172/16
 44.220.185.172/24
 44.220.185.172/32
+185.247.137.53 (universal.monitoring.internet-measurement.com)
+0.0.0.0 185.247.137.53 (universal.monitoring.internet-measurement.com)
+185.247.137.53
+185.247.137.53/0
+185.247.137.53/8
+185.247.137.53/16
+185.247.137.53/24
+185.247.137.53/32
+universal.monitoring.internet-measurement.com
+0.0.0.0 universal.monitoring.internet-measurement.com
+216.180.246.143 (crawler143.deepfield.net)
+216.180.246.143
+216.180.246.143/0
+216.180.246.143/8
+216.180.246.143/16
+216.180.246.143/24
+216.180.246.143/32
+crawler143.deepfield.net
+0.0.0.0 crawler143.deepfield.net
+0.0.0.0 51.158.205.203 (7934cbfb-536a-48fe-a6f0-009f98ceb9ac.nl-ams-1.baremetal.scw.clouip-51.158.205.203)
+51.158.205.203 (7934cbfb-536a-48fe-a6f0-009f98ceb9ac.nl-ams-1.baremetal.scw.clouip-51.158.205.203)
+51.158.205.203
+51.158.205.203/0
+51.158.205.203/8
+51.158.205.203/16
+51.158.205.203/24
+51.158.205.203/32
+7934cbfb-536a-48fe-a6f0-009f98ceb9ac.nl-ams-1.baremetal.scw.clouip-51.158.205.203
+0.0.0.0 7934cbfb-536a-48fe-a6f0-009f98ceb9ac.nl-ams-1.baremetal.scw.clouip-51.158.205.203
