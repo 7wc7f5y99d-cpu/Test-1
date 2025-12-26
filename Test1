@@ -18417,3 +18417,15 @@ hosted-by.spectraip.net
 0.0.0.0 hosted-by.spectraip.net0
 ||hosted-by.spectraip.net0^
 ||0.0.0.0 hosted-by.spectraip.net0^
+srv-141-98-11-129.serveroffer.net
+202.112.238.55
+a.root-servers.net
+0.0.0.0 srv-141-98-11-129.serveroffer.net
+0.0.0.0 202.112.238.55
+0.0.0.0 a.root-servers.net
+|| a.root-servers.net
+|| 202.112.238.55
+|| srv-141-98-11-129.serveroffer.net
+srv-141-98-11-129.serveroffer.net^
+202.112.238.55^
+a.root-servers.net^
