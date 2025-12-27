@@ -18429,3 +18429,7 @@ a.root-servers.net
 srv-141-98-11-129.serveroffer.net^
 202.112.238.55^
 a.root-servers.net^
+vtb.com
+0.0.0.0 vtb.com
+vtb.com^
+|| vtb.com^
